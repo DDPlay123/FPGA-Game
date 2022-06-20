@@ -1,0 +1,693 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1100mV 85C Model Setup 'hor_counter[3]'
+Slack : -45.747
+TNS   : -5308.124
+
+Type  : Slow 1100mV 85C Model Setup 'hor_counter[4]'
+Slack : -45.737
+TNS   : -5370.173
+
+Type  : Slow 1100mV 85C Model Setup 'hor_counter[5]'
+Slack : -45.489
+TNS   : -5670.044
+
+Type  : Slow 1100mV 85C Model Setup 'hor_counter[1]'
+Slack : -44.824
+TNS   : -3613.877
+
+Type  : Slow 1100mV 85C Model Setup 'Clk_50MHz'
+Slack : -35.623
+TNS   : -3775.499
+
+Type  : Slow 1100mV 85C Model Setup 'hor_counter[0]'
+Slack : -6.162
+TNS   : -218.859
+
+Type  : Slow 1100mV 85C Model Setup 'VGA_CLK~reg0'
+Slack : -4.937
+TNS   : -99.050
+
+Type  : Slow 1100mV 85C Model Setup 'Move_Car[0]'
+Slack : -4.524
+TNS   : -33.838
+
+Type  : Slow 1100mV 85C Model Setup 'CLK'
+Slack : -4.380
+TNS   : -287.875
+
+Type  : Slow 1100mV 85C Model Setup 'CLK_LFSR'
+Slack : -1.990
+TNS   : -19.405
+
+Type  : Slow 1100mV 85C Model Setup 'CLK_6'
+Slack : -1.876
+TNS   : -9.809
+
+Type  : Slow 1100mV 85C Model Hold 'hor_counter[1]'
+Slack : -5.575
+TNS   : -474.319
+
+Type  : Slow 1100mV 85C Model Hold 'hor_counter[5]'
+Slack : -5.326
+TNS   : -502.767
+
+Type  : Slow 1100mV 85C Model Hold 'hor_counter[4]'
+Slack : -5.187
+TNS   : -447.686
+
+Type  : Slow 1100mV 85C Model Hold 'hor_counter[3]'
+Slack : -4.932
+TNS   : -454.701
+
+Type  : Slow 1100mV 85C Model Hold 'Clk_50MHz'
+Slack : -3.998
+TNS   : -15.785
+
+Type  : Slow 1100mV 85C Model Hold 'hor_counter[0]'
+Slack : -3.528
+TNS   : -82.369
+
+Type  : Slow 1100mV 85C Model Hold 'VGA_CLK~reg0'
+Slack : -1.133
+TNS   : -3.133
+
+Type  : Slow 1100mV 85C Model Hold 'CLK_LFSR'
+Slack : 0.172
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'CLK_6'
+Slack : 0.305
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'Move_Car[0]'
+Slack : 0.337
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'CLK'
+Slack : 0.469
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Recovery 'hor_counter[3]'
+Slack : -12.190
+TNS   : -510.105
+
+Type  : Slow 1100mV 85C Model Recovery 'hor_counter[1]'
+Slack : -11.971
+TNS   : -277.022
+
+Type  : Slow 1100mV 85C Model Recovery 'hor_counter[5]'
+Slack : -11.602
+TNS   : -558.812
+
+Type  : Slow 1100mV 85C Model Recovery 'hor_counter[4]'
+Slack : -11.450
+TNS   : -532.892
+
+Type  : Slow 1100mV 85C Model Recovery 'hor_counter[0]'
+Slack : -6.366
+TNS   : -54.791
+
+Type  : Slow 1100mV 85C Model Removal 'hor_counter[1]'
+Slack : -4.772
+TNS   : -38.624
+
+Type  : Slow 1100mV 85C Model Removal 'hor_counter[5]'
+Slack : -4.480
+TNS   : -23.795
+
+Type  : Slow 1100mV 85C Model Removal 'hor_counter[4]'
+Slack : -4.433
+TNS   : -19.277
+
+Type  : Slow 1100mV 85C Model Removal 'hor_counter[3]'
+Slack : -4.129
+TNS   : -21.902
+
+Type  : Slow 1100mV 85C Model Removal 'hor_counter[0]'
+Slack : -1.035
+TNS   : -6.432
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'hor_counter[1]'
+Slack : -4.618
+TNS   : -1249.187
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'hor_counter[3]'
+Slack : -4.143
+TNS   : -1912.241
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'hor_counter[5]'
+Slack : -4.091
+TNS   : -1817.105
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'hor_counter[4]'
+Slack : -3.779
+TNS   : -1297.543
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'Clk_50MHz'
+Slack : -0.493
+TNS   : -201.005
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'CLK_6'
+Slack : -0.458
+TNS   : -4.146
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'CLK'
+Slack : -0.417
+TNS   : -90.669
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'VGA_CLK~reg0'
+Slack : -0.394
+TNS   : -13.498
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'CLK_LFSR'
+Slack : -0.394
+TNS   : -11.325
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'hor_counter[0]'
+Slack : -0.213
+TNS   : -6.303
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'Move_Car[0]'
+Slack : 0.217
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Setup 'hor_counter[3]'
+Slack : -47.189
+TNS   : -5234.103
+
+Type  : Slow 1100mV 0C Model Setup 'hor_counter[4]'
+Slack : -47.153
+TNS   : -5296.381
+
+Type  : Slow 1100mV 0C Model Setup 'hor_counter[5]'
+Slack : -46.918
+TNS   : -5585.571
+
+Type  : Slow 1100mV 0C Model Setup 'hor_counter[1]'
+Slack : -46.276
+TNS   : -3565.626
+
+Type  : Slow 1100mV 0C Model Setup 'Clk_50MHz'
+Slack : -37.117
+TNS   : -3802.396
+
+Type  : Slow 1100mV 0C Model Setup 'hor_counter[0]'
+Slack : -6.276
+TNS   : -217.896
+
+Type  : Slow 1100mV 0C Model Setup 'VGA_CLK~reg0'
+Slack : -4.928
+TNS   : -97.093
+
+Type  : Slow 1100mV 0C Model Setup 'CLK'
+Slack : -4.393
+TNS   : -289.535
+
+Type  : Slow 1100mV 0C Model Setup 'Move_Car[0]'
+Slack : -4.303
+TNS   : -32.297
+
+Type  : Slow 1100mV 0C Model Setup 'CLK_LFSR'
+Slack : -1.914
+TNS   : -18.900
+
+Type  : Slow 1100mV 0C Model Setup 'CLK_6'
+Slack : -1.889
+TNS   : -9.860
+
+Type  : Slow 1100mV 0C Model Hold 'hor_counter[1]'
+Slack : -5.286
+TNS   : -456.148
+
+Type  : Slow 1100mV 0C Model Hold 'hor_counter[5]'
+Slack : -5.093
+TNS   : -492.176
+
+Type  : Slow 1100mV 0C Model Hold 'hor_counter[4]'
+Slack : -4.949
+TNS   : -435.681
+
+Type  : Slow 1100mV 0C Model Hold 'hor_counter[3]'
+Slack : -4.655
+TNS   : -436.415
+
+Type  : Slow 1100mV 0C Model Hold 'Clk_50MHz'
+Slack : -3.818
+TNS   : -17.366
+
+Type  : Slow 1100mV 0C Model Hold 'hor_counter[0]'
+Slack : -3.333
+TNS   : -79.322
+
+Type  : Slow 1100mV 0C Model Hold 'VGA_CLK~reg0'
+Slack : -1.026
+TNS   : -2.592
+
+Type  : Slow 1100mV 0C Model Hold 'CLK_LFSR'
+Slack : 0.153
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'Move_Car[0]'
+Slack : 0.253
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'CLK_6'
+Slack : 0.276
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'CLK'
+Slack : 0.479
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Recovery 'hor_counter[3]'
+Slack : -11.662
+TNS   : -499.332
+
+Type  : Slow 1100mV 0C Model Recovery 'hor_counter[1]'
+Slack : -11.443
+TNS   : -270.115
+
+Type  : Slow 1100mV 0C Model Recovery 'hor_counter[5]'
+Slack : -11.112
+TNS   : -546.637
+
+Type  : Slow 1100mV 0C Model Recovery 'hor_counter[4]'
+Slack : -10.969
+TNS   : -521.811
+
+Type  : Slow 1100mV 0C Model Recovery 'hor_counter[0]'
+Slack : -6.312
+TNS   : -54.096
+
+Type  : Slow 1100mV 0C Model Removal 'hor_counter[1]'
+Slack : -4.563
+TNS   : -38.304
+
+Type  : Slow 1100mV 0C Model Removal 'hor_counter[5]'
+Slack : -4.332
+TNS   : -24.406
+
+Type  : Slow 1100mV 0C Model Removal 'hor_counter[4]'
+Slack : -4.270
+TNS   : -19.659
+
+Type  : Slow 1100mV 0C Model Removal 'hor_counter[3]'
+Slack : -3.932
+TNS   : -22.121
+
+Type  : Slow 1100mV 0C Model Removal 'hor_counter[0]'
+Slack : -1.026
+TNS   : -6.165
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'hor_counter[1]'
+Slack : -4.343
+TNS   : -1193.037
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'hor_counter[5]'
+Slack : -3.922
+TNS   : -1775.691
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'hor_counter[3]'
+Slack : -3.909
+TNS   : -1825.529
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'hor_counter[4]'
+Slack : -3.590
+TNS   : -1261.453
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'Clk_50MHz'
+Slack : -0.512
+TNS   : -215.347
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'CLK_6'
+Slack : -0.435
+TNS   : -4.205
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'CLK'
+Slack : -0.414
+TNS   : -89.950
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'VGA_CLK~reg0'
+Slack : -0.394
+TNS   : -13.144
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'CLK_LFSR'
+Slack : -0.394
+TNS   : -11.080
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'hor_counter[0]'
+Slack : -0.181
+TNS   : -3.156
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'Move_Car[0]'
+Slack : 0.210
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Setup 'hor_counter[3]'
+Slack : -24.960
+TNS   : -3278.740
+
+Type  : Fast 1100mV 85C Model Setup 'hor_counter[4]'
+Slack : -24.700
+TNS   : -3323.078
+
+Type  : Fast 1100mV 85C Model Setup 'hor_counter[5]'
+Slack : -24.533
+TNS   : -3493.183
+
+Type  : Fast 1100mV 85C Model Setup 'hor_counter[1]'
+Slack : -24.199
+TNS   : -2251.426
+
+Type  : Fast 1100mV 85C Model Setup 'Clk_50MHz'
+Slack : -17.916
+TNS   : -1959.797
+
+Type  : Fast 1100mV 85C Model Setup 'hor_counter[0]'
+Slack : -3.502
+TNS   : -123.174
+
+Type  : Fast 1100mV 85C Model Setup 'Move_Car[0]'
+Slack : -2.754
+TNS   : -20.203
+
+Type  : Fast 1100mV 85C Model Setup 'VGA_CLK~reg0'
+Slack : -2.679
+TNS   : -53.540
+
+Type  : Fast 1100mV 85C Model Setup 'CLK'
+Slack : -2.253
+TNS   : -140.519
+
+Type  : Fast 1100mV 85C Model Setup 'CLK_6'
+Slack : -1.127
+TNS   : -5.733
+
+Type  : Fast 1100mV 85C Model Setup 'CLK_LFSR'
+Slack : -0.925
+TNS   : -8.622
+
+Type  : Fast 1100mV 85C Model Hold 'hor_counter[1]'
+Slack : -3.452
+TNS   : -304.221
+
+Type  : Fast 1100mV 85C Model Hold 'hor_counter[5]'
+Slack : -3.194
+TNS   : -331.971
+
+Type  : Fast 1100mV 85C Model Hold 'hor_counter[4]'
+Slack : -3.124
+TNS   : -292.567
+
+Type  : Fast 1100mV 85C Model Hold 'hor_counter[3]'
+Slack : -3.020
+TNS   : -293.727
+
+Type  : Fast 1100mV 85C Model Hold 'hor_counter[0]'
+Slack : -2.410
+TNS   : -57.957
+
+Type  : Fast 1100mV 85C Model Hold 'Clk_50MHz'
+Slack : -2.353
+TNS   : -9.197
+
+Type  : Fast 1100mV 85C Model Hold 'VGA_CLK~reg0'
+Slack : -0.854
+TNS   : -2.667
+
+Type  : Fast 1100mV 85C Model Hold 'CLK_6'
+Slack : -0.042
+TNS   : -0.044
+
+Type  : Fast 1100mV 85C Model Hold 'CLK_LFSR'
+Slack : 0.050
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'CLK'
+Slack : 0.136
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'Move_Car[0]'
+Slack : 0.233
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Recovery 'hor_counter[3]'
+Slack : -7.825
+TNS   : -289.530
+
+Type  : Fast 1100mV 85C Model Recovery 'hor_counter[1]'
+Slack : -7.666
+TNS   : -157.721
+
+Type  : Fast 1100mV 85C Model Recovery 'hor_counter[5]'
+Slack : -7.456
+TNS   : -312.772
+
+Type  : Fast 1100mV 85C Model Recovery 'hor_counter[4]'
+Slack : -7.422
+TNS   : -302.336
+
+Type  : Fast 1100mV 85C Model Recovery 'hor_counter[0]'
+Slack : -3.442
+TNS   : -29.321
+
+Type  : Fast 1100mV 85C Model Removal 'hor_counter[1]'
+Slack : -3.104
+TNS   : -27.637
+
+Type  : Fast 1100mV 85C Model Removal 'hor_counter[5]'
+Slack : -2.846
+TNS   : -17.058
+
+Type  : Fast 1100mV 85C Model Removal 'hor_counter[4]'
+Slack : -2.801
+TNS   : -15.570
+
+Type  : Fast 1100mV 85C Model Removal 'hor_counter[3]'
+Slack : -2.665
+TNS   : -16.788
+
+Type  : Fast 1100mV 85C Model Removal 'hor_counter[0]'
+Slack : -0.978
+TNS   : -6.446
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'hor_counter[1]'
+Slack : -2.890
+TNS   : -626.157
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'hor_counter[3]'
+Slack : -2.578
+TNS   : -952.783
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'hor_counter[5]'
+Slack : -2.273
+TNS   : -820.528
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'hor_counter[4]'
+Slack : -2.129
+TNS   : -619.573
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'Clk_50MHz'
+Slack : -0.512
+TNS   : -36.213
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'CLK_6'
+Slack : -0.218
+TNS   : -0.522
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'hor_counter[0]'
+Slack : -0.195
+TNS   : -6.147
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'CLK'
+Slack : -0.155
+TNS   : -7.902
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'CLK_LFSR'
+Slack : -0.129
+TNS   : -1.713
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'VGA_CLK~reg0'
+Slack : -0.048
+TNS   : -0.406
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'Move_Car[0]'
+Slack : 0.206
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Setup 'hor_counter[3]'
+Slack : -23.502
+TNS   : -2916.570
+
+Type  : Fast 1100mV 0C Model Setup 'hor_counter[4]'
+Slack : -23.368
+TNS   : -2951.224
+
+Type  : Fast 1100mV 0C Model Setup 'hor_counter[5]'
+Slack : -23.215
+TNS   : -3103.898
+
+Type  : Fast 1100mV 0C Model Setup 'hor_counter[1]'
+Slack : -22.922
+TNS   : -1999.349
+
+Type  : Fast 1100mV 0C Model Setup 'Clk_50MHz'
+Slack : -16.846
+TNS   : -1783.691
+
+Type  : Fast 1100mV 0C Model Setup 'hor_counter[0]'
+Slack : -3.085
+TNS   : -109.410
+
+Type  : Fast 1100mV 0C Model Setup 'Move_Car[0]'
+Slack : -2.435
+TNS   : -17.895
+
+Type  : Fast 1100mV 0C Model Setup 'VGA_CLK~reg0'
+Slack : -2.347
+TNS   : -47.093
+
+Type  : Fast 1100mV 0C Model Setup 'CLK'
+Slack : -2.068
+TNS   : -124.789
+
+Type  : Fast 1100mV 0C Model Setup 'CLK_6'
+Slack : -1.038
+TNS   : -5.055
+
+Type  : Fast 1100mV 0C Model Setup 'CLK_LFSR'
+Slack : -0.796
+TNS   : -7.099
+
+Type  : Fast 1100mV 0C Model Hold 'hor_counter[1]'
+Slack : -3.082
+TNS   : -268.718
+
+Type  : Fast 1100mV 0C Model Hold 'hor_counter[5]'
+Slack : -2.886
+TNS   : -294.483
+
+Type  : Fast 1100mV 0C Model Hold 'hor_counter[4]'
+Slack : -2.754
+TNS   : -262.826
+
+Type  : Fast 1100mV 0C Model Hold 'hor_counter[3]'
+Slack : -2.710
+TNS   : -261.363
+
+Type  : Fast 1100mV 0C Model Hold 'Clk_50MHz'
+Slack : -2.207
+TNS   : -10.874
+
+Type  : Fast 1100mV 0C Model Hold 'hor_counter[0]'
+Slack : -2.152
+TNS   : -51.794
+
+Type  : Fast 1100mV 0C Model Hold 'VGA_CLK~reg0'
+Slack : -0.781
+TNS   : -2.371
+
+Type  : Fast 1100mV 0C Model Hold 'CLK_6'
+Slack : -0.107
+TNS   : -0.388
+
+Type  : Fast 1100mV 0C Model Hold 'CLK_LFSR'
+Slack : 0.035
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'CLK'
+Slack : 0.094
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'Move_Car[0]'
+Slack : 0.181
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Recovery 'hor_counter[3]'
+Slack : -6.793
+TNS   : -252.897
+
+Type  : Fast 1100mV 0C Model Recovery 'hor_counter[1]'
+Slack : -6.659
+TNS   : -137.935
+
+Type  : Fast 1100mV 0C Model Recovery 'hor_counter[5]'
+Slack : -6.455
+TNS   : -272.144
+
+Type  : Fast 1100mV 0C Model Recovery 'hor_counter[4]'
+Slack : -6.416
+TNS   : -262.849
+
+Type  : Fast 1100mV 0C Model Recovery 'hor_counter[0]'
+Slack : -3.035
+TNS   : -25.873
+
+Type  : Fast 1100mV 0C Model Removal 'hor_counter[1]'
+Slack : -2.753
+TNS   : -25.517
+
+Type  : Fast 1100mV 0C Model Removal 'hor_counter[5]'
+Slack : -2.557
+TNS   : -15.742
+
+Type  : Fast 1100mV 0C Model Removal 'hor_counter[4]'
+Slack : -2.518
+TNS   : -14.523
+
+Type  : Fast 1100mV 0C Model Removal 'hor_counter[3]'
+Slack : -2.365
+TNS   : -15.751
+
+Type  : Fast 1100mV 0C Model Removal 'hor_counter[0]'
+Slack : -0.866
+TNS   : -5.814
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'hor_counter[1]'
+Slack : -2.442
+TNS   : -510.963
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'hor_counter[3]'
+Slack : -2.181
+TNS   : -794.145
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'hor_counter[5]'
+Slack : -1.966
+TNS   : -673.234
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'hor_counter[4]'
+Slack : -1.835
+TNS   : -514.572
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'Clk_50MHz'
+Slack : -0.518
+TNS   : -35.563
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'CLK_6'
+Slack : -0.130
+TNS   : -0.259
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'CLK'
+Slack : -0.090
+TNS   : -3.487
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'hor_counter[0]'
+Slack : -0.080
+TNS   : -0.573
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'CLK_LFSR'
+Slack : -0.069
+TNS   : -0.890
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'VGA_CLK~reg0'
+Slack : 0.003
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'Move_Car[0]'
+Slack : 0.253
+TNS   : 0.000
+
+------------------------------------------------------------

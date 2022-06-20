@@ -1,0 +1,59 @@
+Warning (10268): Verilog HDL information at Game.v(164): always construct contains both blocking and non-blocking assignments File: D:/FPGA/Game/Game.v Line: 164
+Warning (10268): Verilog HDL information at Game.v(270): always construct contains both blocking and non-blocking assignments File: D:/FPGA/Game/Game.v Line: 270
+Warning (10268): Verilog HDL information at Game.v(288): always construct contains both blocking and non-blocking assignments File: D:/FPGA/Game/Game.v Line: 288
+Warning (10268): Verilog HDL information at Game.v(308): always construct contains both blocking and non-blocking assignments File: D:/FPGA/Game/Game.v Line: 308
+Warning (10268): Verilog HDL information at Game.v(2287): always construct contains both blocking and non-blocking assignments File: D:/FPGA/Game/Game.v Line: 2287
+Info (10281): Verilog HDL Declaration information at Game.v(468): object "x_Car" differs only in case from object "X_Car" in the same scope File: D:/FPGA/Game/Game.v Line: 468
+Info (10281): Verilog HDL Declaration information at Game.v(468): object "y_Car" differs only in case from object "Y_Car" in the same scope File: D:/FPGA/Game/Game.v Line: 468
+Info (10281): Verilog HDL Declaration information at Game.v(508): object "x_barr_A" differs only in case from object "X_Barr_A" in the same scope File: D:/FPGA/Game/Game.v Line: 508
+Info (10281): Verilog HDL Declaration information at Game.v(508): object "y_barr_A" differs only in case from object "Y_Barr_A" in the same scope File: D:/FPGA/Game/Game.v Line: 508
+Info (10281): Verilog HDL Declaration information at Game.v(547): object "x_barr_B" differs only in case from object "X_Barr_B" in the same scope File: D:/FPGA/Game/Game.v Line: 547
+Info (10281): Verilog HDL Declaration information at Game.v(547): object "y_barr_B" differs only in case from object "Y_Barr_B" in the same scope File: D:/FPGA/Game/Game.v Line: 547
+Info (10281): Verilog HDL Declaration information at Game.v(586): object "x_barr_C" differs only in case from object "X_Barr_C" in the same scope File: D:/FPGA/Game/Game.v Line: 586
+Info (10281): Verilog HDL Declaration information at Game.v(586): object "y_barr_C" differs only in case from object "Y_Barr_C" in the same scope File: D:/FPGA/Game/Game.v Line: 586
+Info (10281): Verilog HDL Declaration information at Game.v(615): object "x_bus_A" differs only in case from object "X_Bus_A" in the same scope File: D:/FPGA/Game/Game.v Line: 615
+Info (10281): Verilog HDL Declaration information at Game.v(615): object "y_bus_A" differs only in case from object "Y_Bus_A" in the same scope File: D:/FPGA/Game/Game.v Line: 615
+Info (10281): Verilog HDL Declaration information at Game.v(644): object "x_bus_B" differs only in case from object "X_Bus_B" in the same scope File: D:/FPGA/Game/Game.v Line: 644
+Info (10281): Verilog HDL Declaration information at Game.v(644): object "y_bus_B" differs only in case from object "Y_Bus_B" in the same scope File: D:/FPGA/Game/Game.v Line: 644
+Info (10281): Verilog HDL Declaration information at Game.v(673): object "x_bus_C" differs only in case from object "X_Bus_C" in the same scope File: D:/FPGA/Game/Game.v Line: 673
+Info (10281): Verilog HDL Declaration information at Game.v(673): object "y_bus_C" differs only in case from object "Y_Bus_C" in the same scope File: D:/FPGA/Game/Game.v Line: 673
+Info (10281): Verilog HDL Declaration information at Game.v(698): object "X_Score" differs only in case from object "x_score" in the same scope File: D:/FPGA/Game/Game.v Line: 698
+Info (10281): Verilog HDL Declaration information at Game.v(698): object "Y_Score" differs only in case from object "y_score" in the same scope File: D:/FPGA/Game/Game.v Line: 698
+Info (10281): Verilog HDL Declaration information at Game.v(743): object "X_Best" differs only in case from object "x_best" in the same scope File: D:/FPGA/Game/Game.v Line: 743
+Info (10281): Verilog HDL Declaration information at Game.v(743): object "Y_Best" differs only in case from object "y_best" in the same scope File: D:/FPGA/Game/Game.v Line: 743
+Info (10281): Verilog HDL Declaration information at Game.v(817): object "x_dot" differs only in case from object "X_Dot" in the same scope File: D:/FPGA/Game/Game.v Line: 817
+Info (10281): Verilog HDL Declaration information at Game.v(856): object "x_coin_a" differs only in case from object "X_Coin_A" in the same scope File: D:/FPGA/Game/Game.v Line: 856
+Info (10281): Verilog HDL Declaration information at Game.v(856): object "y_coin_a" differs only in case from object "Y_Coin_A" in the same scope File: D:/FPGA/Game/Game.v Line: 856
+Info (10281): Verilog HDL Declaration information at Game.v(856): object "x_coin_b" differs only in case from object "X_Coin_B" in the same scope File: D:/FPGA/Game/Game.v Line: 856
+Info (10281): Verilog HDL Declaration information at Game.v(856): object "y_coin_b" differs only in case from object "Y_Coin_B" in the same scope File: D:/FPGA/Game/Game.v Line: 856
+Info (10281): Verilog HDL Declaration information at Game.v(856): object "x_coin_c" differs only in case from object "X_Coin_C" in the same scope File: D:/FPGA/Game/Game.v Line: 856
+Info (10281): Verilog HDL Declaration information at Game.v(856): object "y_coin_c" differs only in case from object "Y_Coin_C" in the same scope File: D:/FPGA/Game/Game.v Line: 856
+Info (10281): Verilog HDL Declaration information at Game.v(893): object "x_bomb_a" differs only in case from object "X_Bomb_A" in the same scope File: D:/FPGA/Game/Game.v Line: 893
+Info (10281): Verilog HDL Declaration information at Game.v(893): object "y_bomb_a" differs only in case from object "Y_Bomb_A" in the same scope File: D:/FPGA/Game/Game.v Line: 893
+Info (10281): Verilog HDL Declaration information at Game.v(893): object "x_bomb_b" differs only in case from object "X_Bomb_B" in the same scope File: D:/FPGA/Game/Game.v Line: 893
+Info (10281): Verilog HDL Declaration information at Game.v(893): object "y_bomb_b" differs only in case from object "Y_Bomb_B" in the same scope File: D:/FPGA/Game/Game.v Line: 893
+Info (10281): Verilog HDL Declaration information at Game.v(893): object "x_bomb_c" differs only in case from object "X_Bomb_C" in the same scope File: D:/FPGA/Game/Game.v Line: 893
+Info (10281): Verilog HDL Declaration information at Game.v(893): object "y_bomb_c" differs only in case from object "Y_Bomb_C" in the same scope File: D:/FPGA/Game/Game.v Line: 893
+Info (10281): Verilog HDL Declaration information at Game.v(930): object "x_blood_a" differs only in case from object "X_Blood_A" in the same scope File: D:/FPGA/Game/Game.v Line: 930
+Info (10281): Verilog HDL Declaration information at Game.v(930): object "y_blood_a" differs only in case from object "Y_Blood_A" in the same scope File: D:/FPGA/Game/Game.v Line: 930
+Info (10281): Verilog HDL Declaration information at Game.v(930): object "x_blood_b" differs only in case from object "X_Blood_B" in the same scope File: D:/FPGA/Game/Game.v Line: 930
+Info (10281): Verilog HDL Declaration information at Game.v(930): object "y_blood_b" differs only in case from object "Y_Blood_B" in the same scope File: D:/FPGA/Game/Game.v Line: 930
+Info (10281): Verilog HDL Declaration information at Game.v(930): object "x_blood_c" differs only in case from object "X_Blood_C" in the same scope File: D:/FPGA/Game/Game.v Line: 930
+Info (10281): Verilog HDL Declaration information at Game.v(930): object "y_blood_c" differs only in case from object "Y_Blood_C" in the same scope File: D:/FPGA/Game/Game.v Line: 930
+Info (10281): Verilog HDL Declaration information at Game.v(967): object "x_gg" differs only in case from object "X_GG" in the same scope File: D:/FPGA/Game/Game.v Line: 967
+Info (10281): Verilog HDL Declaration information at Game.v(982): object "x_pa" differs only in case from object "X_Pa" in the same scope File: D:/FPGA/Game/Game.v Line: 982
+Info (10281): Verilog HDL Declaration information at Game.v(982): object "y_pa" differs only in case from object "Y_Pa" in the same scope File: D:/FPGA/Game/Game.v Line: 982
+Info (10281): Verilog HDL Declaration information at Game.v(1005): object "x_blood_1" differs only in case from object "X_Blood_1" in the same scope File: D:/FPGA/Game/Game.v Line: 1005
+Info (10281): Verilog HDL Declaration information at Game.v(1005): object "y_blood_1" differs only in case from object "Y_Blood_1" in the same scope File: D:/FPGA/Game/Game.v Line: 1005
+Info (10281): Verilog HDL Declaration information at Game.v(1005): object "x_blood_2" differs only in case from object "X_Blood_2" in the same scope File: D:/FPGA/Game/Game.v Line: 1005
+Info (10281): Verilog HDL Declaration information at Game.v(1005): object "y_blood_2" differs only in case from object "Y_Blood_2" in the same scope File: D:/FPGA/Game/Game.v Line: 1005
+Info (10281): Verilog HDL Declaration information at Game.v(1005): object "x_blood_3" differs only in case from object "X_Blood_3" in the same scope File: D:/FPGA/Game/Game.v Line: 1005
+Info (10281): Verilog HDL Declaration information at Game.v(1005): object "y_blood_3" differs only in case from object "Y_Blood_3" in the same scope File: D:/FPGA/Game/Game.v Line: 1005
+Info (10281): Verilog HDL Declaration information at Game.v(1041): object "x_go" differs only in case from object "X_Go" in the same scope File: D:/FPGA/Game/Game.v Line: 1041
+Info (10281): Verilog HDL Declaration information at Game.v(1041): object "y_go" differs only in case from object "Y_Go" in the same scope File: D:/FPGA/Game/Game.v Line: 1041
+Info (10281): Verilog HDL Declaration information at Game.v(1041): object "x_stop" differs only in case from object "X_Stop" in the same scope File: D:/FPGA/Game/Game.v Line: 1041
+Info (10281): Verilog HDL Declaration information at Game.v(1041): object "y_stop" differs only in case from object "Y_Stop" in the same scope File: D:/FPGA/Game/Game.v Line: 1041
+Info (10281): Verilog HDL Declaration information at Game.v(1080): object "x_road" differs only in case from object "X_road" in the same scope File: D:/FPGA/Game/Game.v Line: 1080
+Info (10281): Verilog HDL Declaration information at Game.v(1080): object "y_road" differs only in case from object "Y_road" in the same scope File: D:/FPGA/Game/Game.v Line: 1080
+Info (10281): Verilog HDL Declaration information at Game.v(1080): object "x_line" differs only in case from object "X_line" in the same scope File: D:/FPGA/Game/Game.v Line: 1080
+Info (10281): Verilog HDL Declaration information at Game.v(1080): object "y_line" differs only in case from object "Y_line" in the same scope File: D:/FPGA/Game/Game.v Line: 1080
