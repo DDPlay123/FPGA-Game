@@ -35,7 +35,7 @@ Turbo模式
 
 ![](https://github.com/DDPlay123/FPGA-Game/blob/main/image/4.png "場景切換")
 
-吃到效果
+道具效果
 
 ![](https://github.com/DDPlay123/FPGA-Game/blob/main/image/5.png "道具效果")
 
